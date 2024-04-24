@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942592669173",
+    "project_id": "morningfirebase",
+    "storage_bucket": "morningfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942592669173:android:d8d843dba9227513375cbc",
+        "android_client_info": {
+          "package_name": "com.mwendwa.morningfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQFouZZdcib3GPRfKL_UDcf67reN6GXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
